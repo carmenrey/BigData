@@ -1,2 +1,2 @@
-# Big Data Training
-Prácticas realizadas en la especialización de Big Data del bootcamp de KeepCoding
+# Python para Big Data
+Práctica realizada en el módulo de Python para Big Data del bootcamp de KeepCoding.
